@@ -1,0 +1,289 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+Items: {
+	funnystick: {
+		DisplayName: funny stick
+		Tooltip: death
+	}
+
+	AdamantiteRifle: {
+		DisplayName: Adamantite Rifle
+		Tooltip: ""
+	}
+
+	HallowedRifle: {
+		DisplayName: Hallowed Rifle
+		Tooltip: ""
+	}
+
+	TitaniumRifle: {
+		DisplayName: Titanium Rifle
+		Tooltip: ""
+	}
+
+	MeldedGunbow: {
+		DisplayName: Melded Gunbow
+		Tooltip:
+			'''
+			Consumes both arrows and bullets
+			Caution: May have strange interactions with some items
+			'Firearms and archery, united at last!'
+			'''
+	}
+
+	StarBar: {
+		DisplayName: Star Bar
+		Tooltip: "'Fuzzy to the touch'"
+	}
+
+	StarPicknaxe: {
+		DisplayName: Star Pick'n'axe
+		Tooltip: "'Not to be confused with a Pickaxe Axe'"
+	}
+
+	StarSlicer: {
+		DisplayName: Star Slicer
+		Tooltip: ""
+	}
+
+	StarSmasher: {
+		DisplayName: Star Smasher
+		Tooltip: Ignores 10 points of enemy defense
+	}
+
+	StarSlinger: {
+		DisplayName: Star Slinger
+		Tooltip: Converts wooden arrows into piercing Starrows unaffected by gravity
+	}
+
+	HallowedCharm: {
+		DisplayName: Hallowed Charm
+		Tooltip:
+			'''
+			Provides life regeneration
+			Reduces the cooldown of healing potions by 25%
+			Increases length of invincibility after taking damage
+			'''
+	}
+
+	HolyShield: {
+		DisplayName: Holy Shield
+		Tooltip:
+			'''
+			Grants immunity to knockback
+			Grants immunity to fire blocks
+			Provides life regeneration
+			Reduces the cooldown of healing potions by 25%
+			Increases length of invincibility after taking damage
+			'Protecting you with the power of religion!'
+			'''
+	}
+
+	GlassStaff: {
+		DisplayName: Glass Staff
+		Tooltip: "'A breakthrough in DIY magic technology!'"
+	}
+
+	BlackFeather: {
+		DisplayName: Black Feather
+		Tooltip: ""
+	}
+
+	GlassCannoncane: {
+		DisplayName: Glass Cannoncane
+		Tooltip:
+			'''
+			Becomes less effective as you lose health
+			'A breakthrough in DIY not-getting-hit technology!'
+			'''
+	}
+
+	ShiningEgg: {
+		DisplayName: Shining Egg
+		Tooltip:
+			'''
+			Summons Corvus, ruler of the skies
+			Can only be used in space
+			Not consumable
+			'''
+	}
+
+	StarshineWings: {
+		DisplayName: Starshine Wings
+		Tooltip:
+			'''
+			Allows flight and slow fall
+			Short flight time but great mobility
+			Gives off a faint light while flying
+			'''
+	}
+
+	ShineShard: {
+		DisplayName: Shine Shard
+		Tooltip: ""
+	}
+
+	HolyVitality: {
+		DisplayName: Holy Vitality
+		Tooltip:
+			'''
+			Becomes less effective as you lose health
+			'A breakthrough in DIY healing technology!'
+			'''
+	}
+
+	ThePowerOfLove: {
+		DisplayName: The Power Of Love
+		Tooltip:
+			'''
+			Becomes less effective as you lose health
+			'A breakthrough in not needing no credit card to ride this train!'
+			'''
+	}
+
+	StarshineHat: {
+		Tooltip:
+			'''
+			Increases your max number of minions by 1
+			12% reduced mana costs
+			'''
+		DisplayName: Starshine Headgear
+	}
+
+	StarshineChainmail: {
+		Tooltip:
+			'''
+			12% increased damage
+			12% increased critical strike chance
+			'''
+		DisplayName: Starshine Chainmail
+	}
+
+	StarshineGreaves: {
+		Tooltip:
+			'''
+			12% increased melee speed
+			12% increased movement speed
+			'''
+		DisplayName: Starshine Greaves
+	}
+
+	Paper: {
+		Tooltip: ""
+		DisplayName: Paper
+	}
+
+	CrudeSpell: {
+		Tooltip: ""
+		DisplayName: Paper Leaf
+	}
+
+	PaperSword: {
+		DisplayName: Paper Sword
+		Tooltip: ""
+	}
+
+	PaperHat: {
+		DisplayName: Paper Hood
+		Tooltip: 2% increased critical strike chance
+	}
+
+	PaperShirt: {
+		DisplayName: Paper Shirt
+		Tooltip: 3% increased critical strike chance
+	}
+
+	PaperPants: {
+		DisplayName: Paper Pants
+		Tooltip: 2% increased critical strike chance
+	}
+
+	MutantFlower: {
+		DisplayName: Mutant Flower
+		Tooltip:
+			'''
+			6% increased critical strike chance
+			This bonus gradually fades into 6% damage reduction as your health decreases
+			'''
+	}
+
+	BeetleHeart: {
+		DisplayName: Beetle Heart
+		Tooltip:
+			'''
+			6% increased damage
+			This bonus gradually fades into 6 defense as your health decreases
+			'''
+	}
+
+	BeautifulBouquet: {
+		DisplayName: Beautiful Bouquet
+		Tooltip:
+			'''
+			6% increased damage and critical strike chance
+			These bonuses gradually fade into 6% damage reduction and 6 defense as your health decreases
+			'''
+	}
+
+	CorvusTreasureBag: {
+		DisplayName: Treasure Bag (Corvus)
+		Tooltip: ""
+	}
+
+	WaterleafTea: {
+		Tooltip:
+			'''
+			Medium improvements to all stats
+			'Now with even more water!'
+			'''
+		DisplayName: Waterleaf Tea
+	}
+
+	Multea: {
+		Tooltip:
+			'''
+			Major improvements to all stats
+			'Taste the rainbow!'
+			'''
+		DisplayName: Multea
+	}
+
+	HydraFlower: {
+		DisplayName: Floral Flame
+		Tooltip: Channels the power of three flames
+	}
+
+	WomanLauncher: {
+		DisplayName: Woman Launcher
+		Tooltip: Launches edgy-looking half-bird waifus
+	}
+
+	WaifuNugget: {
+		DisplayName: Crispy Nugget
+		Tooltip:
+			'''
+			Summons a Starpy to fight for you
+			'Caution: may contain ash.'
+			'''
+	}
+}
+
+Projectiles: {
+	Starrow.DisplayName: Starrow
+	BlackFeatherProjectile.DisplayName: Starry Feather
+	ChargedFeatherProjectile.DisplayName: Shiny Feather
+	EdgyBirdWife.DisplayName: Edgy Bird Wife
+	BlackFeatherProjectileFriendly.DisplayName: Black Feather Projectile Friendly
+}
+
+NPCs: {
+	Crow.DisplayName: Crow
+	Corvus.DisplayName: Corvus
+}
+
+Buffs: {
+	EdgyBirdWife: {
+		DisplayName: Starpy
+		Description: The Starpy will fight for you
+	}
+}

@@ -1,0 +1,3 @@
+displayName = voxelbugged's voxelmod
+author = voxelbugged
+version = 0.1
